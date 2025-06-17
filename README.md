@@ -5,11 +5,9 @@ This is the official PyTorch implementation for "[Body-Hand Modality Expertized 
 <h1>Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition</h1>
 
 <a href="https://arxiv.org/pdf/2503.14960"><img src="https://img.shields.io/badge/arXiv-2503.14960-b31b1b" alt="arXiv"></a>
-<a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
-<a href='https://huggingface.co/spaces/facebook/vggt'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
 
-**[KCVL, KAIST](https://www.robots.ox.ac.uk/~vgg/)**
+**[KCVL, KAIST](https://sites.google.com/view/tkkim/home)**
 
 
 [Seungyeon Cho](https://jytime.github.io/), [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
