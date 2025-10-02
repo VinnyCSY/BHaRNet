@@ -23,7 +23,7 @@
 
 
 ## Updates
-- [June 16, 2025] Honored to be accepted for publication in IROS 2025 as oral presentation!
+- [June 16, 2025] Honored to be accepted for publication in IROS 2025 as oral+poster presentation!
 
 
 ## License
