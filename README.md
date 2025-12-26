@@ -30,10 +30,15 @@
 See the [LICENSE](./LICENSE) file for details about the license under which this code is made available.
 
 ```bibtex
-@article{cho2025body,
-  title={Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition},
+@INPROCEEDINGS{11246883,
   author={Cho, Seungyeon and Kim, Tae-Kyun},
-  journal={arXiv preprint arXiv:2503.14960},
-  year={2025}
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={11614-11621},
+  keywords={Hands;Accuracy;Target recognition;Inertial sensors;Dynamics;Redundancy;Skeleton;Computational efficiency;Human activity recognition;Intelligent robots},
+  doi={10.1109/IROS60139.2025.11246883}
 }
 ```
