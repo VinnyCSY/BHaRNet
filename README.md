@@ -9,7 +9,9 @@ This repository provides the official implementation of
   *BHaRNet: Reliability-Aware Body–Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition* 
    (arXiv 2026)
   
-<a href="https://arxiv.org/abs/2503.14960"><img src="https://img.shields.io/badge/arXiv-2503.14960-b31b1b" alt="arXiv"></a> <a href="/LICENSE"><img src="https://img.shields.io/badge/license-Apache%20License%202.0-blue" alt="License"></a>
+<a href="https://arxiv.org/abs/2601.00369"><img src="https://img.shields.io/badge/arXiv-2601.00369-b31b1b" alt="arXiv"></a> 
+
+<a href="/LICENSE"><img src="https://img.shields.io/badge/license-Apache%20License%202.0-blue" alt="License"></a>
 
 **[KAIST](https://sites.google.com/view/tkkim/home)**
 
@@ -31,8 +33,10 @@ This repository provides the official implementation of
 
 
 ## Updates
+- [March 19, 2025] "Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition" is uploaded in arXiv.
 - [June 16, 2025] Honored to be accepted for publication in IROS 2025 as oral&poster presentation!
-- [January 1, 2026] Journal extension in progress: Code and processed skeleton splits will be made publicly available upon publication.
+- [January 1, 2026] "BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition" is uploaded in arXiv.
+- Journal extension in progress: Code and processed skeleton splits will be made publicly available upon publication.
 
 ## License
 See the [LICENSE](./LICENSE) file for details about the license under which this code is made available.
@@ -48,5 +52,14 @@ See the [LICENSE](./LICENSE) file for details about the license under which this
   pages={11614-11621},
   keywords={Hands;Accuracy;Target recognition;Inertial sensors;Dynamics;Redundancy;Skeleton;Computational efficiency;Human activity recognition;Intelligent robots},
   doi={10.1109/IROS60139.2025.11246883}
+}
+@misc{cho2026relbharnet,
+      title={BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition}, 
+      author={Seungyeon Cho and Tae-kyun Kim},
+      year={2026},
+      eprint={2601.00369},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.00369}, 
 }
 ```
