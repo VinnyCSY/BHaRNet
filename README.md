@@ -53,13 +53,10 @@ See the [LICENSE](./LICENSE) file for details about the license under which this
   keywords={Hands;Accuracy;Target recognition;Inertial sensors;Dynamics;Redundancy;Skeleton;Computational efficiency;Human activity recognition;Intelligent robots},
   doi={10.1109/IROS60139.2025.11246883}
 }
-@misc{cho2026relbharnet,
-      title={BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition}, 
-      author={Seungyeon Cho and Tae-kyun Kim},
-      year={2026},
-      eprint={2601.00369},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.00369}, 
+@article{cho2026bharnet,
+  title={BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition},
+  author={Cho, Seungyeon and Kim, Tae-kyun},
+  journal={arXiv preprint arXiv:2601.00369},
+  year={2026}
 }
 ```
